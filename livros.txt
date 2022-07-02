@@ -1,0 +1,9 @@
+    <!-- Aula C71 -->
+    <div class="container">
+        <h2 class="page-header" id="livros">Meus Livros Favoritos</h2>
+        <div class="col-6 livro">
+            <img class="img-fluid" src="">
+            <hr>
+            <a target="_blank" href="">Título do Livro</a>
+        </div>
+    </div>

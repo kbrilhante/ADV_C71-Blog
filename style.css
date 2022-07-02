@@ -33,7 +33,7 @@ body {
 
 /* aula C70 */
 
-.filmesHead {
+.filmeHead {
     font-size: 20px;
     padding: 6px 20px;
     border-radius: 10px;
@@ -41,14 +41,23 @@ body {
     text-align: left;
 }
 
-.filmesHead i {
+.filmeHead i {
     float: right;
 }
 
-.filmesBody span {
+.filmeBody span {
     color: orange;
 }
 
-.filmesBody p {
+.filmeBody p {
     text-align: justify;
+}
+
+/* aula C71 */
+#livros {
+    margin-bottom: 20px;
+}
+
+.livroLinha {
+    margin-bottom: 50px;
 }
