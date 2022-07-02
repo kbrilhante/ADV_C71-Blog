@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+}
+
+#rodape iframe
+{
+    width: 100%;
+}
+
+#contato a {
+    text-decoration: none;
+    color: #000;
+}
+
+#contato a:hover {
+    text-decoration: underline;
+}
+
+.principalViagem {
+    border: 4px solid lightseagreen;
+    margin: 20px;
+}
+
+.principalViagem img {
+    width: 100%;
+}
+
+.line {
+    background-color: lightseagreen;
+    height: 6px;
+    margin: 10px auto;
+}
+
+/* aula C70 */
+
+.filmesHead {
+    font-size: 20px;
+    padding: 6px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.filmesHead i {
+    float: right;
+}
+
+.filmesBody span {
+    color: orange;
+}
+
+.filmesBody p {
+    text-align: justify;
+}
